@@ -41,5 +41,17 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.6"
-  }
+  },
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujahid-furkan/DevMujahid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujahid-furkan/DevMujahid/issues"
+  },
+  "homepage": "https://github.com/mujahid-furkan/DevMujahid#readme",
+  "description": ""
 }
