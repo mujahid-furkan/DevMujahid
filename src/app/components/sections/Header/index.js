@@ -38,7 +38,7 @@ function Header() {
             <img src={logo.src} className="h-12" alt="logo" />
           ) : (
             <h3 className="text-3xl font-Poppins font-medium text-white">
-              {logo.alt}
+             Dev<span className="text-orange-300">Mujahid</span>
             </h3>
           )}
         </a>
